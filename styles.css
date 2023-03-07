@@ -7,20 +7,20 @@
 .bg-img1 {
   background-color: #000;
   background-size: cover;
-  background-image: url(././images/desert-landscape-gradient-background-moon-sun-5k-3840x1080-8383.png);
+  background-image: url(../images/desert-landscape-gradient-background-moon-sun-5k-3840x1080-8383.png);
   height: 80vh;
 }
 
 .bg-img2 {
   background-color: #000;
   background-size: cover;
-  background-image: url(././images/human_on_the_hill.jpg);
+  background-image: url(../images/human_on_the_hill.jpg);
   height: 80vh;
 }
 
 .bg-img3 {
   background-color: #000;
   background-size: cover;
-  background-image: url(././images/tower.jpg);
+  background-image: url(../images/tower.jpg);
   height: 80vh;
 }
